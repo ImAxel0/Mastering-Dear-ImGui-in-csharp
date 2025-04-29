@@ -13,7 +13,7 @@ They walk through the initial setup, showcase some common ImGui widgets, styling
 
 The complete version is available here:
 
-[![Buy the Book](https://img.shields.io/badge/Gumroad-Mastering_Dear_ImGui_in_C%23-blueviolet?style=for-the-badge)](https://imaxel.gumroad.com/l/mastering-dear-imgui-in-csharp) [![Buy the Book](https://img.shields.io/badge/Itch.io-Mastering_Dear_ImGui_in_C%23-indianred?style=for-the-badge)](https://imaxel0.itch.io/mastering-dear-imgui-in-csharp)
+[![Buy the Book](https://img.shields.io/badge/Gumroad-Mastering_Dear_ImGui_in_C%23-blueviolet?style=for-the-badge)](https://imaxel.gumroad.com/l/mastering-dear-imgui-in-csharp/62kkt0p) [![Buy the Book](https://img.shields.io/badge/Itch.io-Mastering_Dear_ImGui_in_C%23-indianred?style=for-the-badge)](https://imaxel0.itch.io/mastering-dear-imgui-in-csharp)
 
 <p align="left">
  <img src="https://img.itch.zone/aW1hZ2UvMzUxNDE5Ni8yMDk0MDQzNi5wbmc=/794x1000/sNQlrq.png" width="220" height="330" />
